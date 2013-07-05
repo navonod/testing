@@ -1,0 +1,601 @@
+Aalwynsfontein		
+Aan de Doorns		
+Aberdeen		
+Aberfeldy		
+Abbotsdale		
+Acornhoek		
+Adelaide		
+Adendorp		
+Addo		
+Afguns		
+Aggeneys		
+Agulhas		
+Ahrens		
+Akasia		
+Albertinia		
+Alberton		
+Albertshoek		
+Alderley		
+Aldinville		
+Alexander Bay		
+Alexandria		
+Alexandra		
+Alettasrus		
+Alice		
+Alicedale		
+Aliwal North		
+Allandale		
+Allanridge		
+Alldays		
+Allep		
+Alpha		
+Amalia		
+Amalienstein		
+Amanzimtoti		
+Amersfoort		
+Amsterdam		
+Anerley		
+Andriesvale		
+Arlington		
+Arniston		
+Ashton		
+Askham		
+Atlantis		
+Atteridgeville		
+Augrabies		
+Aurora		
+Baardskeerdersbos		
+Babelegi		
+Babanango		
+Badplaas		
+Bailey		
+Bakerville		
+Balfour		
+Balfour		
+Balgowan		
+Ballengeich		
+Ballito		
+Balmoral		
+Baltimore		
+Banana Beach		
+Bandelierkop		
+Bandur		
+Bank 		
+Bankkop		
+Phalaborwa		
+Bapsfontein		
+Barakke		
+Barberspan
+Barberton		
+Barkly East		
+Barkly West		
+Baroda		
+Baroe		
+Barrington		
+Barrydale		
+Bathurst		
+Baviaan		
+Bayala		
+Bazley		
+Beaufort West		
+Beauty		
+Bedford		
+Beestekraal		
+Behulpsaam		
+Beitbridge		
+Bekker		
+Bela-Bela		
+Belfast		
+Bell		
+Bellevue		
+Bellville		
+Belmont		
+Bendigo		
+Benoni		
+Berbice		
+Berea		
+Bergplaas		
+Bergrivier		
+Bergville		
+Berlin		
+Bermolli		
+Besters		
+Bethal		
+Bethanie		
+Bethelsdorp		
+Bethlehem		
+Bethulie		
+Bettiesdam		
+Betty's Bay		
+Bewley		
+Biesiesfontein		
+Biesiespoort		
+Biesiesvlei		
+Biggarsberg		
+Bhisho		
+Bitterfontein		
+Bityi|		
+Bloemfontein		
+Bloemhof		
+Boipatong		
+Boksburg		
+Bonnievale		
+Bonza Bay		
+Bophelong		
+Bosbokrand		
+Boshof		
+Boston		
+Bothaville		
+Botshabelo		
+Brakpan		
+Brandfort		
+Braunschweig		
+Bray		
+Bredasdorp		
+Breyten		
+Brits		
+Britstown		
+Broederstroom		
+Bronkhorstspruit		
+Buffelsjagbaai		
+Bultfontein		
+Bulwer		
+Burgersdorp		
+Boompie Alleen		
+Butterworth		
+Cala		
+Caledon		
+Calitzdorp		
+Calvert		
+Calvinia		
+Cambria		
+Campbell		
+Camperdown		
+Camps Bay		
+Candover		
+Cannon Rocks		
+Cape St. Francis		
+Cape Town		
+Cape Vidal		
+Carletonville		
+Carlow		
+Carlsonia		
+Carlton		
+Carnarvon		
+Carolina		
+Catalina Bay		
+Carolusberg		
+Cathcart		
+Catoridge		
+Cedarville		
+Centurion		
+Ceres		
+Chalumna		
+Chantelle		
+Charl Cilliers		
+Charlestown		
+Chintsa		
+Chrissiesmeer		
+Christiana		
+Chuniespoort		
+Churchaven		
+Citrusdal		
+Clansthal		
+Clanwilliam		
+Claremont		
+Clarens		
+Clarkebury		
+Clarkson		
+Clermont		
+Clewer		
+Clifford		
+Clifton		
+Clocolan		
+Coalville		
+Coega		
+Concordia		
+Coffee Bay		
+Cofimvaba		
+Coghlan		
+Colchester		
+Coleford		
+Colesberg		
+Colenso		
+Coligny		
+Colston		
+Commondale		
+Constantia		
+Copperton		
+Cornelia		
+Cork		
+Cookhouse		
+Cradock		
+Cullinan		
+Danielskuil		
+Dannhauser		
+Dargle		
+Darling		
+Daveyton		
+De Aar		
+Dealesville		
+De Doorns		
+De Kelders		
+Delareyville		
+Delmas		
+Delportshoop		
+Deneysville		
+Derby		
+De Rust		
+Despatch		
+Devon		
+Dewetsdorp		
+Dibeng		
+Dingleton		
+Döhne		
+Doonside		
+Doringbaai		
+Dordrecht		
+Douglas		
+Drummond		
+Duduza		
+Duiwelskloof		
+Dullstroom		
+Dundee		
+Durban		
+Dysselsdorp		
+Excelsior		
+Evaton		
+Estcourt		
+Eshowe		
+Ermelo		
+Empangeni		
+Elliot		
+Elim		
+Elgin		
+Elandslaagte		
+Elandsbaai		
+ekuPhakameni		
+Eendekuil		
+Edenville		
+Edenvale		
+Edenburg		
+East London
+Fauresmith		
+Ficksburg		
+Fisherhaven		
+Flagstaff		
+Fort Beaufort		
+Fouriesburg		
+Frankfort		
+Franklin		
+Franskraal		
+Franschhoek		
+Fraserburg		
+Gansbaai		
+Ganyesa		
+Ga-Rankuwe		
+Gcuwa	
+Genadendal		
+George		
+Germiston		
+Giyani		
+Glencoe		
+Gonubie		
+Gouda		
+Graaff-Reinet		
+Graafwater		
+Grabouw		
+Grahamstown		
+Graskop		
+Gravelotte 		
+Greylingstad		
+Greyton		
+Greytown		
+Griekwastad		
+Groblersdal		
+Groblershoop		
+Groot Marico		
+
+Haenertsburg		
+Hammanskraal		
+Hankey		
+Harrismith		
+Hartbeespoort	
+Hattingspruit		
+Hazyview		
+Hectorspruit		
+Heidelberg		
+Heidelberg		
+Heilbron		
+Henley on Klip		
+Hennenman		
+Hermanus		
+Hertzogville		
+Hibberdene		
+Hillcrest		
+Hilton		
+Himeville		
+Hluhluwe		
+Hobhouse		
+Hoedspruit		
+Hofmeyr		
+Hoopstad		
+Hopefield		
+Howick		
+Humansdorp		
+Idutywa	
+Ifafa Beach		
+Illovo Beach		
+Impendile		
+Inanda 
+Ingwavuma		
+Irene		
+Isando		
+Isipingo Beach		
+Itumeleng		
+Ixopo		
+Jansenville		
+Jacobsdal		
+Jagersfontein		
+Jeffreys Bay		
+Johannesburg		
+Kaapmuiden		
+Karridene		
+Katlehong		
+Kempton Park		
+Kenton-on-Sea		
+Kestell		
+Keurboomstrand		
+Kgotsong		
+Khayelitsha		
+Kimberley		
+Kingsburgh		
+King William's Town		
+Kinross		
+Kirkwood		
+Klerksdorp	
+Kloof		
+Knysna		
+Koffiefontein		
+Kokstad		
+Komatipoort		
+Koppies		
+Kromdraai		
+Kroonstad		
+Kriel		
+Krugersdorp		
+KwaDukuza	
+KwaMashu		
+KwaMhlanga		
+KwaThema		
+
+Ladybrand		
+Ladysmith		
+Laingsburg		
+La Lucia	
+La Mercy		
+Lenasia		
+Lephalale	
+Lichtenburg	
+Lindley		
+Littleton	
+Loopspruit		
+Louis Trichardt	
+Louwsburg	
+Luckhoff		
+Lydenburg		
+Machadodorp		
+Maclear		
+Madadeni		
+Mafikeng	
+Magaliesburg		
+Mahlabatini		
+Makeleketla		
+Malelane		
+Mamelodi		
+Mandini		
+Marble Hall		
+Margate		
+Marquard		
+Matatiele		
+Matjiesfontein		
+Melmoth		
+Memel		
+Merrivale		
+Meyerton		
+Milddleburg		
+Middleburg		
+Midrand		
+Mkuze		
+Mmabatho		
+Modder River		
+Modimolle		
+Mokopane		
+Molteno		
+Mooirivier		
+Morgenzon		
+Mount Edgecombe		
+Mount Fletcher		
+Mossel Bay		
+Mthatha		
+Mtubatuba		
+Mtunzini		
+Muden		
+Muldersdrift		
+Musina		
+Naboomspruit	
+Nelspruit	
+Newcastle	
+New Germany	
+New Hanover	
+Engcobo	
+Nieu-Bethesda	
+Nigel	
+Nongoma	
+Nottingham Road	
+Odendaalsrus		
+Ogies		
+Ohrigstad		
+Orania 		
+Oranjeville		
+Orchards		
+Orkney		
+Oudtshoorn		
+Oyster Bay		
+Paarl
+Palm Beach
+Park Rynie
+Parys
+Patterson 
+Paulpietersburg
+Paul Roux
+Pennington
+Perdekop
+Petrusburg
+Petrus Steyn
+Philippolis
+Phuthaditjhaba
+Piet Retief
+Pietermaritzburg
+Pilgrim's Rest
+Pinetown
+Plettenberg Bay
+Polokwane
+Pomeroy
+Pongola
+Port Alfred
+Port Edward
+Port Elizabeth
+Port Shepstone
+Port St. Johns
+Pretoria
+Prieska
+Patensie
+Queensburgh
+Queenstown
+Ramsgate
+Randburg
+Randfontein
+Ratanda
+Reddersburg
+Reitz
+Richards Bay
+Richmond
+Riebeek Kasteel
+Roodepoort
+Rooihuiskraal
+Rosendal
+Rouxville
+Rustenburg
+Sabie
+Salt Rock
+Sandton
+Sasolburg
+Schweizer-Reneke
+Scottburgh
+Sebokeng
+Secunda
+Senekal
+Sezela
+Sharpeville
+Shelly Beach
+Smithfield
+Somerset East
+Somerset West
+Southbroom
+Soweto
+Springbok
+Springfontein
+Springs
+Standerton
+Stellenbosch
+Steynsburg
+Steynsrus
+St Francis Bay
+St Lucia
+St Michael's-on-Sea
+Strand
+Stutterheim
+Swartberg
+Swellendam
+Swinburne
+S Soshanguve
+Tarkastad
+Tembisa
+Thaba Nchu
+Thabazimbi
+Theunissen
+Thohoyandou
+Thokoza
+Tongaat
+Trichardt
+Trompsburg
+Tsakane
+Tugela Ferry
+Tulbagh
+Tweeling
+Tweespruit
+Ubombo
+Uitenhage
+Ulundi
+Umbogintwini
+Umdloti
+Umgababa
+Umhlanga Rocks
+Umkomaas
+Umlazi
+Umtentweni
+uMthatha
+Umzinto
+Umzumbe
+Underberg
+Upington
+Uniondale 
+Utrecht
+Uvongo
+Vaalbank
+Vaalwater
+Vanderbijlpark
+Van Reenen
+Van Stadensrus
+Ventersburg
+Vereeniging
+Verkeerdevlei
+Verulam
+Viljoenskroon
+Villiers
+Virginia
+Vivo
+Volksrust
+Vosloorus
+Vrede
+Vredefort
+Vryburg
+Vryheid
+Wakkerstroom
+Warden
+Warner Beach
+Wartburg
+Wasbank
+Waterval Boven
+Waterval Onder
+Weenen
+Welkom
+Wellington
+Wepener
+Wesselsbron
+Westonaria
+Westville
+White River
+Widenham
+Wilderness
+Williston 
+Winburg
+Winkelspruit
+Winterton
+Witbank
+Worcester
+York
+Zastron
+Zeerust
+Zwelitsha
