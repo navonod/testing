@@ -10,4 +10,8 @@ class Town {
 
     static constraints = {
     }
+
+    String toString() {
+        return this.name
+    }
 }

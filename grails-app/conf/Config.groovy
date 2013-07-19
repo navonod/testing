@@ -50,6 +50,7 @@ grails.json.legacy.builder = false
 grails.enable.native2ascii = true
 // packages to include in Spring bean scanning
 grails.spring.bean.packages = []
+grails.views.javascript.library="jquery"
 // whether to disable processing of multi part requests
 grails.web.disable.multipart=false
 

@@ -4,7 +4,19 @@
 	<head>
 		<meta name="layout" content="main">
 		<g:set var="entityName" value="${message(code: 'project.label', default: 'Project')}" />
+        <g:javascript library="jquery" plugin="jquery"/>
+        <r:require module="jquery-ui"/>
 		<title><g:message code="default.create.label" args="[entityName]" /></title>
+        <script>
+            $(document).ready(
+                $(function() {
+                    $( "#town" ).autocomplete({
+                        source: "project/towns",
+                        minLength: 2
+                    });
+                })
+            )
+        </script>
 	</head>
 	<body>
 		<a href="#create-project" class="skip" tabindex="-1"><g:message code="default.link.skip.label" default="Skip to content&hellip;"/></a>

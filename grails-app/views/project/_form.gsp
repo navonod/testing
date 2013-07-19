@@ -28,10 +28,10 @@
 
 <div class="fieldcontain ${hasErrors(bean: projectInstance, field: 'town', 'error')} required">
 	<label for="town">
-		<g:message code="project.town.label" default="Town" />
+		<g:message code="project.town.label" default="ZA Town" />
 		<span class="required-indicator">*</span>
 	</label>
-	<g:select id="town" name="town.id" from="${autocomplete.Town.list()}" optionKey="id" required="" value="${projectInstance?.town?.id}" class="many-to-one"/>
+	<g:field  type="text" name="town" id="town" value="${projectInstance?.town?.id}" class="many-to-one" />
 </div>
 
 <div class="fieldcontain ${hasErrors(bean: projectInstance, field: 'transactions', 'error')} ">

@@ -6,6 +6,8 @@ class ProjectController {
 
     static allowedMethods = [save: "POST", update: "POST", delete: "POST"]
 
+    def TownService townService
+
     def index() {
         redirect(action: "list", params: params)
     }
@@ -98,5 +100,9 @@ class ProjectController {
             flash.message = message(code: 'default.not.deleted.message', args: [message(code: 'project.label', default: 'Project'), id])
             redirect(action: "show", id: id)
         }
+    }
+
+    def towns = { name ->
+        townService.findByNameLike()
     }
 }
